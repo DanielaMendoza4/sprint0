@@ -1,3 +1,1 @@
-# sprint0
-//holaaaa
-let nombre
+#sprint0
