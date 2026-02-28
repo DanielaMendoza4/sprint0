@@ -14,8 +14,10 @@ console.log(nombreCompleto);
 
 // Creamos una historia basada en Superman utilizando variables
 
-const cuento = "Habia una vez un hombre que era periodista llamado Clark Kent, que en realidad era Superman, el hombre de acero, que vivia en la ciudad de Metrópolis y que tenia la mision de proteger a la humanidad de los villanos que querian apoderarse del mundo";
-
+let cuento = "Habia una vez un hombre que era periodista llamado Clark Kent, que en realidad era Superman, el hombre de acero, que vivia en la ciudad de Metrópolis y que tenia la mision de proteger a la humanidad de los villanos que querian apoderarse del mundo";
+cuento = "Habia una vez un hombre que era periodista llamado Clark Kent, que en realidad era Superman, el hombre de acero, que vivia en la ciudad de Metrópolis y que tenia la mision de proteger a la humanidad de los villanos que querian apoderarse del mundo";
 console.log(cuento);
 
-//
+
+
+
